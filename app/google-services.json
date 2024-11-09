@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "470571301489",
+    "project_id": "androidendsem",
+    "storage_bucket": "androidendsem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470571301489:android:8f675c25fc207b8db939d0",
+        "android_client_info": {
+          "package_name": "com.example.endsemapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcj8hpEzPnt9fz4DGJmEF4IB8rdI_DiD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470571301489:android:882a09cee1d1da68b939d0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcj8hpEzPnt9fz4DGJmEF4IB8rdI_DiD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
